@@ -1,0 +1,6 @@
+[submodule "back"]
+	path = back
+	url = git@github.com:kumaryoya/movie_app_back.git
+[submodule "front"]
+	path = front
+	url = git@github.com:kumaryoya/movie_app_front.git
