@@ -9,7 +9,7 @@
 | カテゴリ | 技術 |
 | :- | :- |
 | バックエンド | Ruby 3.2.2 / Ruby on Rails 7.0.8 |
-| フロントエンド | TypeScript 5.3.3 / React 18.2.0 |
+| フロントエンド | TypeScript 4.9.5 / React 18.2.0 |
 | データベース | PostgreSQL |
 | 環境構築 | Docker |
 | インフラ | Render / Vercel |
